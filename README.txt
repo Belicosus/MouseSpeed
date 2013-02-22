@@ -1,1 +1,1 @@
-hej casper
+This is the MouseSpeed application, enabeling control of mouse sensetivity for multiple input devices.
